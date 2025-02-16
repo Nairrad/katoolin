@@ -13,7 +13,7 @@ Automatically install all Kali linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+- git clone https://github.com/Nairrad666/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
@@ -32,16 +32,8 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 
 # I have some questions!
 
-Please visit https://github.com/LionSec/katoolin/issues
-
-# Donations
-- Paypal : https://www.paypal.me/lionsec
-- skrill : informatica98es@gmail.com
+Please visit https://github.com/Nairrad666
 
 
 # Contact
-- Website : https://neodrix.com
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : informatica98es@gmail.com
+- Email : Day66168@gmail.com
